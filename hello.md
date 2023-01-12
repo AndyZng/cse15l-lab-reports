@@ -1,2 +1,1 @@
-hi hi
-i love java
+*hi*
