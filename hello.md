@@ -3,6 +3,7 @@
 ## Step 1: Install VScode
 * Go to [VScode download](https://code.visualstudio.com/download) and download the version of VScode that corresponds to your operating system. 
 <img width="960" alt="VScode download sc" src="https://user-images.githubusercontent.com/115373033/212522753-75a5c17f-500a-4fee-ad5e-67a8b5cf9ac2.png">
+
 * Then open a new terminal in VScode 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/115373033/212522837-39890bd9-c901-4546-aa8f-c908a0cd9cdf.png">
 
