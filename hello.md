@@ -5,11 +5,13 @@
 <img width="960" alt="VScode download sc" src="https://user-images.githubusercontent.com/115373033/212522753-75a5c17f-500a-4fee-ad5e-67a8b5cf9ac2.png">
 * Then open a new terminal in VScode 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/115373033/212522837-39890bd9-c901-4546-aa8f-c908a0cd9cdf.png">
+
 ## Step 2: Connecting to the server
 * In the terminal, type ssh cs15lwi23xxx@ieng6.ucsd.edu. Replace xxx with your own account letters.
 * The terminal will ask you to type yes or no. Type yes.
 It should look something like this:
 <img width="519" alt="image" src="https://user-images.githubusercontent.com/115373033/212523068-91ce405d-b222-4f64-a7b2-e77a2885f36c.png">
+
 ## Step 3: Trying out commands 
 Now you can type commands into the terminal and do things like change your directory 
 Try some commands such as:
