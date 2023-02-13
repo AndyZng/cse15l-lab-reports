@@ -36,7 +36,7 @@ differed from the expected.
 
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/115373033/215319945-a7edd251-4942-4f0e-9686-02fb0bf38d7b.png">
 
-From the error message, we can see the symptom of the bug, which is that the method wrongly reverses the array. Instead of {3, 2 ,1}, it outputs {3, 2, 3}
+From the error message, we can see the symptom of the bug, which is that the method wrongly reverses the array. Instead of `{3, 2 ,1}`, it outputs `{3, 2, 3}`
 
 >Fixed code
 
