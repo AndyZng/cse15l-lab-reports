@@ -27,7 +27,11 @@ This method intends to reverse the contents within an array, however it does not
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/115373033/215319725-61f54fee-a340-4bcd-bb39-a6c6f0d4a179.png">
 
-Here, we see that inputs with lengths less than 2 like { } and {1} had corrected outputs. However, when the length was increased in an input like {1, 2, 3}, the output
+For the testing of the method, I tried inputting 3 different arrays: `{ }, {3}, and {1, 2, 3}`
+
+* Non-failure inducing inputs: Here, we see that inputs with lengths less than 2 like `{ } and {3}` had corrected outputs. 
+
+* Failure inducing inpurts: However, when the length was increased with an input like `{1, 2, 3}`, the output
 differed from the expected. 
 
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/115373033/215319945-a7edd251-4942-4f0e-9686-02fb0bf38d7b.png">
