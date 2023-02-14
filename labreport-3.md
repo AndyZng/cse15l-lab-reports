@@ -5,10 +5,12 @@
 
 1. `grep -i "pattern" <file>` searches through the desired files for the pattern without any case sensitivity and returns the lines where the pattern appears. This is useful if we want to find all instances of a pattern regardless of its casing.
 
-> For example, when I search for "american revolution", the file is still returned despite the actual text being capitalized 
+> For example, when I search for "american revolution", the file is still returned despite the actual text being capitalized
+ 
 <img width="654" alt="image" src="https://user-images.githubusercontent.com/115373033/218630476-ac2b87ad-62a3-4569-8d73-31d2d88e48ea.png">
 
  > Whereas searching for the same thing using the regular grep command yields no result
+ 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/115373033/218630913-3322a584-2f21-4c2b-b62e-2d3e893be34d.png">
 
 > Here is another instance of grep -i searching for "ANCIENT ROME". We can see that it returns all of the lines that contain "Ancient Rome" without regard to
@@ -42,8 +44,7 @@ Using grep -v:
 
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/115373033/218636169-882a2a93-aaa6-41b5-a085-4efb0cbeb184.png">
 
-> This can also be used in text files to find all of the lines which do not contain a certain pattern. For example, grep -v "The" would return all of the lines which
- do not contain file in this text. Note: words containing "The", such as "There" are also ommitted. 
+> This can also be used in text files to find all of the lines which do not contain a certain pattern. For example, grep -v "The" would return all of the lines which do not contain file in this text. Note: words containing "The", such as "There" are also ommitted. 
  
  Original text:
  
@@ -58,6 +59,7 @@ see before and after the pattern we are searching for. Note: the line containing
 
 > For example, if I search for 1 line surrounding the pattern "Paris", the command returns the lines before and after (only after in this case since Paris is in the 
  first line of the text).
+ 
  <img width="815" alt="image" src="https://user-images.githubusercontent.com/115373033/218641066-560adc70-433e-4cc5-b73f-29e6f9bf8b55.png">
  
 > Here is another example where I search for the contexual lines of "Amphrite" in WhereToItaly.txt, where grep returns a line before and after the instance of 
