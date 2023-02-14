@@ -13,6 +13,7 @@
 
 > Here is another instance of grep -i searching for "ANCIENT ROME". We can see that it returns all of the lines that contain "Ancient Rome" without regard to
  capitalization. It is also important to note that the search is being done within all of the text files and not on the names of the text files. 
+ 
 <img width="747" alt="image" src="https://user-images.githubusercontent.com/115373033/218632029-d8fe167d-5ca5-469e-8744-491debdaa06a.png">
 
 2. `grep -r "pattern" <directory>` searches recursively throughout the entire directory and all of its subdirectories to find lines that match the pattern.
