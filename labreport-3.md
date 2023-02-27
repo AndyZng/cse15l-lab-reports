@@ -75,7 +75,7 @@ After using grep -C:
 
 ## Sources used
 
-1) Chat-GPT
+1. Chat-GPT
 https://chat.openai.com/chat/d69ee0c2-2ed5-4312-86d5-bd2447b24fc7
 
 <img width="623" alt="image" src="https://user-images.githubusercontent.com/115373033/221451842-32ab4b3a-9a9c-45be-a579-93ce5aa81091.png">
@@ -83,7 +83,7 @@ https://chat.openai.com/chat/d69ee0c2-2ed5-4312-86d5-bd2447b24fc7
 I asked Chat-GPT to give me a list of common grep commands and examples of how they worked. I then tried applying this to the written_2 data and used the results
 in my lab report. 
 
-2) Wikipedia 
+2. Wikipedia 
 https://en.wikipedia.org/wiki/Grep
 
 I searched on Wikipedia for common grep commands mainly to verify that what Chat-GPT was giving me was correct.
