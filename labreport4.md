@@ -70,6 +70,28 @@ Then I pressed `up` 3 times again to find my previous JUNIT running command. The
 
 ## Step 6 Committing and Pushing the change to Github
 
+Before starting this step, I had to first make an SSH Key for github by following these steps:
+
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/115373033/221479633-1c112b8c-faa3-4750-9b32-09cbc890a94a.png">
+
+Then I had to change my push protocal to ssh protocal by entering `git remote set-url origin git@github.com:AndyZng/lab7.git`
+
+<img width="516" alt="image" src="https://user-images.githubusercontent.com/115373033/221480083-47987991-04f0-45ac-9edc-bad4744b1d66.png">
+
+Now I was ready to stage the changes by using `git add <File Name>` This was followed by using `git commit -m "<message>"` to actually commit the changes.
+
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/115373033/221479791-2d1d33a4-fb6f-4007-8cbd-9317452be116.png">
+
+Finally I pushed my changes to Github by using `git push`
+
+<img width="568" alt="image" src="https://user-images.githubusercontent.com/115373033/221480183-b7e37f1c-11b8-44cd-b404-9c183b2f0655.png">
+
+We can see that the repository has been updated on Github.
+
+<img width="657" alt="image" src="https://user-images.githubusercontent.com/115373033/221480265-ed6b7b05-4452-4407-a80e-9de9b23f3bc1.png">
+
+
+
 
 
 
