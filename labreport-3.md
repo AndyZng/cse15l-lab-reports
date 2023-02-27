@@ -73,6 +73,21 @@ After using grep -C:
 
 <img width="442" alt="image" src="https://user-images.githubusercontent.com/115373033/218641739-dc48d3cc-a940-4f33-bbac-2e95c96151b8.png">
 
+## Sources used
+
+1. Chat-GPT
+https://chat.openai.com/chat/d69ee0c2-2ed5-4312-86d5-bd2447b24fc7
+
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/115373033/221451842-32ab4b3a-9a9c-45be-a579-93ce5aa81091.png">
+
+I asked Chat-GPT to give me a list of common grep commands and examples of how they worked. I then tried applying this to the written_2 data and used the results
+in my lab report. 
+
+2. Wikipedia 
+https://en.wikipedia.org/wiki/Grep
+
+I searched on Wikipedia for common grep commands mainly to verify that what Chat-GPT was giving me was correct.
+
 
 
 
