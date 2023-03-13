@@ -37,7 +37,7 @@ Next, I copied `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.jav
 
 ## Step 4: Editing the code 
 
-To edit `ListExamples.java` and fix its code, I type `nano L` then `<tab>` then `.j` then `<tab>` to auto complete to ListExamples.java. I entered this to edit the file.
+To edit `ListExamples.java` and fix its code, I typed `nano L` then `<tab>` then `.j` then `<tab>` to auto complete to ListExamples.java. I entered this to edit the file.
 This was the UI that came up.
 
 <img width="690" alt="image" src="https://user-images.githubusercontent.com/115373033/221462919-cb26f09d-860d-4dc3-92bc-ed19bdc9e5a0.png">
